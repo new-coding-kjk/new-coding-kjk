@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave)
+
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?text=JongKyu%World&color=auto)
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Jong Kyu Kim</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
