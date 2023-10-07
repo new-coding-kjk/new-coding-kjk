@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=wave)
 <h1 align="center">Hi 👋, I'm Jong Kyu Kim</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
