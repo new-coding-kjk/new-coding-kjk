@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Jong Kyu Kim</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/e41892813afc4f728576218af5791c35](https://www.notion.so/e41892813afc4f728576218af5791c35)
+- 👨‍💻 All of my projects are available at [[https://www.notion.so/e41892813afc4f728576218af5791c35](https://www.notion.so/e41892813afc4f728576218af5791c35)](https://www.notion.so/af07d2b4333a42249ca4e09d65d0f247)
 
 - 💬 Ask me about **Java, Spring , Jpa....**
 
